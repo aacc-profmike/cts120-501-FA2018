@@ -5,6 +5,6 @@
 clear
 mkdir aacc10
 cd aacc10
-touch linuxclass.txt,linuxclass01.txt
+touch linuxclass.txt linuxclass01.txt
 
 #End
