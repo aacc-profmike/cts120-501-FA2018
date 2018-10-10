@@ -1,0 +1,12 @@
+#!/bin/bash
+
+#Homework Script
+clear
+read -p "Press Enter to start."
+echo -e "Please enter your name: "
+read name
+echo "Nice to meet you, $name" 
+read -p "Press enter to continue."
+echo -e "Thanks for playing along"
+mkdir "NamesFile" 
+#Makes the file after the thank you message.
